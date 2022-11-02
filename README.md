@@ -20,7 +20,7 @@ Note: All experiment were excecuted with NVIDIA GeForce GTX 1650Ti
 ## File discription
 * `main-cnn`: One-dimensional CNN for fault classification.
 * `main-eca`: One-dimensional CNN with ECA for fault classification.
-* `main-res-eca`: One-dimensional ResNet with ECA for fault classification. (our proposed ## CAResNet)
+* `main-res-eca`: One-dimensional ResNet with ECA for fault classification. (our proposed CAResNet)
 * `main-resnet`: One-dimensional ResNet for fault classification.
 
 ## Implementation details
