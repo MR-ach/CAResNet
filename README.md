@@ -18,10 +18,10 @@ Code accompanying the paper "Efficient channel attention residual learning for t
 Note: All experiment were excecuted with NVIDIA GeForce GTX 1650Ti
 
 ## File discription
-* `--main-cnn`: One-dimensional CNN for fault classification.
-* `--main-eca`: One-dimensional CNN with ECA for fault classification.
-* `--main-res-eca`: One-dimensional ResNet with ECA for fault classification. (our proposed ## CAResNet)
-* `--main-resnet`: One-dimensional ResNet for fault classification.
+* `main-cnn`: One-dimensional CNN for fault classification.
+* `main-eca`: One-dimensional CNN with ECA for fault classification.
+* `main-res-eca`: One-dimensional ResNet with ECA for fault classification. (our proposed ## CAResNet)
+* `main-resnet`: One-dimensional ResNet for fault classification.
 
 ## Implementation details
 - The overall experiments include swd,wd,swd-sem and wd-sem are included in Run Main.ipynb. Directly using this file can get the results. Note that users should change the directory to successfully run this code.
