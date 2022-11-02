@@ -29,7 +29,7 @@ Note: All experiment were excecuted with NVIDIA GeForce GTX 1650Ti
 
 ## Usage
 The script with `.py` contains all the experiments (four scenarios: wd/swd/wd-sem/swd-sem).
-
+Note: Due to the copyright, only part of data set is uploaded. For more detail pelase contact Authors.
 
 ## Ackonwledgements
 This work supported in part by the National Natural Science Foundation of China (52175080), the Intelligent Manufactur-ing PHM Innovation Team Program (2018KCXTD029), and the National Nature Science Foundation of China (Grant No. 52275138).
