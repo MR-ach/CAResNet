@@ -2,7 +2,7 @@
 
 ## A modified ResNet with channel attention mechanism
 
-Code accompanying the paper "Efficient channel attention residual learning for the time-series fault diagnosis of wind turbine gearboxes" by Wenliao Du, Zhen Guo, Xiaoyun Gong, Ziqiang Pu and Chuan Li (Ready to be submitted for publication).
+Code accompanying the paper "Efficient channel attention residual learning for the time-series fault diagnosis of wind turbine gearboxes" by Wenliao Du, Zhen Guo, Xiaoyun Gong, Ziqiang Pu and Chuan Li (Published in Measurement Science and Technology).
 -  Tensorflow 2.0 implementation
 -  Inspired by Qilong Wang $et$ $al$. [ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks] ([https://openaccess.thecvf.com/content_cvpr_2018/papers/Deshpande_Generative_Modeling_Using_CVPR_2018_paper.pdf](https://arxiv.org/pdf/1910.03151.pdf)), -  The efficient channel attention mechanism (ECA) gains more effect on feature extraction compared to traditional CNN.
 -  ECA is combined with one-dimensional ResNet for the fault diagnosis of wind turbines.
